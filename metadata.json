@@ -1,0 +1,6 @@
+{
+  "name": "EstatePulse UAE - Real Estate AI Broker & Deal Copilot",
+  "description": "Expert AI Real Estate Brokerage Copilot specialized in Dubai & Sharjah markets. Generate high-converting listings, extract WhatsApp group inventory & WTB requirements, qualify buyers, and draft investor milestone notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
